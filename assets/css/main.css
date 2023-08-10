@@ -2528,6 +2528,9 @@ input, select, textarea {
 					display: flex;
 					flex-wrap: wrap;
 					background-color: rgb(196, 212, 225);
+					box-sizing: border-box;
+    				align-items: stretch;
+					margin: 30px 20px 0 0;
 				}
 				
 				.image-part {
